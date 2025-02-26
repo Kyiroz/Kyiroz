@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Kyiroz
+# Recorcholis
+- 👋 Hola, soy @Kyiroz
 - 👀 I’m interested in: learning how to program like a pro-gamer :V
 - 🌱 I’m currently learning: C++, Python, C#
 - 💞️ I’m looking to collaborate on: college asignments
