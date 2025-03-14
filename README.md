@@ -3,7 +3,7 @@
 <h1>Mondongo :)</h1>
 - 👋 Hola, soy @Kyiroz
 - 👀 I’m interested in: learning how to program like a pro-gamer :V
-- 🌱 I’m currently learning: Python, Django
+- 🌱 I’m currently learning: Python, Django, Html
 - 💞️ I’m looking to collaborate on: college asignments
 - 📫 How to reach me: In my house
 - ⚡ Fun fact: I like lasagna a lot
