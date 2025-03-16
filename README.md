@@ -1,6 +1,6 @@
 # Recorcholis
 
-<h1>Repampanos :)</h1>
+<h1>Repampanos >:)</h1>
 - 👋 Hola, soy @Kyiroz
 - 👀 I’m interested in: learning how to program like a pro-gamer :V
 - 🌱 I’m currently learning: Python, Django, Html
