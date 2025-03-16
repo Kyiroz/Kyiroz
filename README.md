@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Python, Django, Html
 - 💞️ I’m looking to collaborate on: college asignments
 - 📫 How to reach me: In my house
-- ⚡ Fun fact: I like lasagna a lot
+- ⚡ Fun fact: I like Pasticho a lot
 
 <!---
 Kyiroz/Kyiroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
