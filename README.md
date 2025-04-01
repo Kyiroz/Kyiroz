@@ -1,11 +1,11 @@
 # Mango
 
-<h1> <i> Repampanos >:D </i> </h1>
+<h1> Repampanos >:D </h1>
 - 👋 Hola, soy @Kyiroz
 - 👀 Interesado en: learning how to program like a pro-gamer :v
 - 🌱 Estoy aprendiendo: Python, Django, Html
 - 💞️ I’m looking to collaborate on: college asignments
-- 📫 How to reach me: In my house
+- 📫 How to reach me: In my home
 - ⚡ Fun fact'o: I like Pasticho a lot
 
 <!---
