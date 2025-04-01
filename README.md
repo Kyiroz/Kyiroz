@@ -2,7 +2,7 @@
 
 <h1>Recorcholis >:D</h1>
 - 👋 Hola, soy @Kyiroz
-- 👀 Interesado en: learning how to program like a pro-gamer :V
+- 👀 Interesado en: learning how to program like a pro-gamer :v
 - 🌱 Estoy aprendiendo: Python, Django, Html
 - 💞️ I’m looking to collaborate on: college asignments
 - 📫 How to reach me: In my house
