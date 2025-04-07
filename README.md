@@ -1,4 +1,4 @@
-# Mondon-Man-go 
+# Mondongo 
 
 <h1> Repampanos >:) </h1>
 - 👋 Hola, soy @Kyiroz
