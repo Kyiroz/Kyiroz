@@ -1,6 +1,6 @@
 
 
-# Mondongo 
+#🥭 Mondongo 
 <h1> ⚡ Repampanos ⚡ </h1>
 - 👋 Hola, soy @Kyiroz.
 - 👀 Interesado en: learning how to program like a pro-gamer :v.
