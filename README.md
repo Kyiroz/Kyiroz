@@ -1,7 +1,7 @@
 
 
 # Mondongo 
-
+<code style="color : cyan">text</code>
 <h1 style="color : cyan"> ⚡ Repampanos ⚡ </h1>
 - 👋 Hola, soy @Kyiroz.
 - 👀 Interesado en: learning how to program like a pro-gamer :v.
