@@ -2,7 +2,7 @@
 
 # 🥭 Mango 🥭
 <h1> ⚡ Repampanos ⚡ </h1>
-- 👋 Hola, soy @Kyiroz :D.
+- 👋 Hola, soy @Kyiroz.
 - 👀 Interesado en: learning how to program like a pro-gamer 😎.
 - 🌱 Estoy aprendiendo: Python, Django, Html
 - 💞️ I’m looking to collaborate on: College Asignments
