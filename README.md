@@ -4,7 +4,7 @@
 <h1> ⚡ Repampanos ⚡ </h1>
 - 👋 Hola, soy @Kyiroz.
 - 👀 Interesado en: learning how to program like a pro-gamer 😎.
-- 📚 Estoy aprendiendo: Python, Django, Html
+- 📚 Estoy aprendiendo: Python, Django, Html.
 - 💞️ I’m looking to collaborate on: College Asignments
 - 📫 How to reach me: In my home
 - ⚡ Funny fact'o: I like Pasticho a lot
